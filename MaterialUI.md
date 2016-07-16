@@ -23,7 +23,9 @@ Please follow the coding style of the current code base. Material-UI uses eslint
 You can also run linting on a subset of the codebase with gulp eslint:src, gulp eslint:docs or gulp eslint:test. Finally, when you submit a pull request, they are run again by Travis CI, but hopefully by then your code is already clean!
 
 #Examination of key batches of code
-To be added
+There are 2 projects that you can look at to get started. They can be found in the examples folder. These projects are basic examples that show how to consume material-ui components in your own project. The first project uses browserify for module bundling and gulp for JS task automation, while the second project uses webpack for module bundling and building.
+
+The source code for this documentation site is also included in the repository. This is a slightly more complex project that also uses webpack, and contains examples of every material-ui component. Check out the docs folder for build instructions.
 
 #Helpful Videos
 
