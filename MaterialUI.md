@@ -15,7 +15,7 @@ To be added
 #Order of Reading Source Files
 
 For an idea where to get started or where the project is headed check out the project roadmap  https://github.com/callemall/material-ui/blob/master/ROADMAP.md.
-For a simpler project to get you started with using react.js components check out https://github.com/ANich/Redux-QuoteGenerator and look at app.js.
+For a simpler project to get you started with using react.js components check out https://github.com/ANich/Redux-QuoteGenerator and look at app.js. For more info on node and SPA(Single Page Applications) check out http://www.material-ui.com/#/get-started/prerequisites
 
 #Style Guides
 
